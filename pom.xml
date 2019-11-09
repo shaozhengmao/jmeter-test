@@ -21,7 +21,7 @@
         <log4j.version>1.2.13</log4j.version>
         <slf4j-api.version>1.7.7</slf4j-api.version>
         <slf4j-log4j12.version>1.5.6</slf4j-log4j12.version>
-        <zookeeper.version>3.4.8</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <zkclient.version>0.8</zkclient.version>
         <dubbo.version>2.6.7</dubbo.version>
         <javassist.version>3.18.1-GA</javassist.version>
