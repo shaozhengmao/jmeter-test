@@ -25,7 +25,7 @@
         <zkclient.version>0.8</zkclient.version>
         <dubbo.version>2.6.7</dubbo.version>
         <javassist.version>3.18.1-GA</javassist.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <fastjson.version>1.2.31</fastjson.version>
         <netty-all.version>4.1.11.Final</netty-all.version>
     </properties>
