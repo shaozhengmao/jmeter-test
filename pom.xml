@@ -17,7 +17,7 @@
         <commons-lang3.version>3.3.2</commons-lang3.version>
         <commons-io.version>2.4</commons-io.version>
         <commons-collections4.version>4.0</commons-collections4.version>
-        <logback.version>1.0.13</logback.version>
+        <logback.version>1.2.0</logback.version>
         <log4j.version>1.2.13</log4j.version>
         <slf4j-api.version>1.7.7</slf4j-api.version>
         <slf4j-log4j12.version>1.5.6</slf4j-log4j12.version>
